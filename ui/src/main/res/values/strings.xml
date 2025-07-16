@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="favorite">Favorites</string>
+    <string name="search">Search</string>
+    <string name="retry">Retry</string>
+    <string name="error_title">Error</string>
+    <string name="released_in">Released in %1$s</string>
+    <string name="vote_info">%1$.1f / 10 (%2$d votes)</string>
+</resources>
